@@ -1,0 +1,63 @@
+H2 {
+    color: rgb(250, 166, 57);
+    font-size: 13pt;
+    font-family: verdana, arial;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+}
+
+H3 {
+    align-self: center;
+    color: rgb(250, 166, 57) font-size: 12pt;
+    font-family: verdana, arial;
+    font-weight: bold;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+}
+
+.ejercicio {
+    align-self: center;
+    color: rgb(250, 166, 57) font-size: 16pt;
+    font-family: verdana, arial;
+    font-weight: bolder;
+    background-color: rgb(0, 0, 0);
+}
+
+body {
+    border-style: solid;
+    border-width: 1xp;
+    border-radius: 3;
+    background-color: rgb(0, 0, 0);
+    font-family: Arial;
+    color: antiquewhite margin: 3% 2% 2%;
+    text-align: left;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.bar {
+    color: rgb(250, 166, 57) background-color: black;
+    font-weight: bold;
+    margin-top: 0%;
+    width: 100%;
+    padding-left: 3%;
+    padding-right: -3%;
+}
+
+.texto {
+
+    color: antiquewhite
+}
+
+a:link {
+    color: cornflowerblue
+}
+
+a:visited {
+    color: rgb(129, 129, 129)
+}
+
+a:hover {
+    color: #ffffff;
+}
